@@ -78,3 +78,5 @@ algorithms: Linear Regression, Decision Tree Regression and
 Random Forest Regression. These regression algorithms are
 used because we intend to make predictions based on the
 continuous quantities yearly average land temperature.
+
+NOTE: Due to the large file size of the dataset GlobalLandTemperaturesByCity.csv, this dataset is unavailable in this repository. For access to this dataset, please see the following link https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data.
